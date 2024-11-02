@@ -9,6 +9,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: "Merriweather", serif;
+  min-width: 500px;
 }
 
 h2 {
@@ -62,6 +63,10 @@ a:hover {
   position: absolute;
   left: 250px;
   bottom: 300px;
+}
+
+.mountain {
+  max-width: 100%;
 }
 
 .title-text {
